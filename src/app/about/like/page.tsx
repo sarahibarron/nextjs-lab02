@@ -13,8 +13,9 @@ export default function Page() {
         <li>📺 Parks and Recreation</li>
         <li>💤 Napping</li>
       </ul>
-      &nbsp;
-      <Link href="/about">Go back </Link>
+      <br />
+
+      <Link href="/about">← Go back </Link>
     </div>
   );
 }

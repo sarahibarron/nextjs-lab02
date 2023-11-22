@@ -7,8 +7,9 @@ export default function Page() {
       <ul>
         <li>😠 Not napping</li>
       </ul>
-      &nbsp;
-      <Link href="/about">Go back</Link>
+      <br />
+
+      <Link href="/about">← Go back</Link>
     </div>
   );
 }
